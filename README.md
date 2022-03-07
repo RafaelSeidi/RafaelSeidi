@@ -18,4 +18,10 @@ I'm interested in growing as a programmer and looking for my first experience in
   <img src="https://user-images.githubusercontent.com/100170190/157071324-38d6e201-7912-4797-81fd-6d39a7e38468.jpg" height="10%" width="10%">
 </p>
   
-📫 To reach me, you can write to the e-mail rafasuzukitomita@gmail.com.
+## If you are interested 📧
+You can reach me writing to the e-mail rafasuzukitomita@gmail.com.
+
+If you want too, you can see my LinkedIn and connect with me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-seidi-suzuki-tomita-151872232/"> <img src="https://user-images.githubusercontent.com/100170190/157081740-c7669230-960e-46cf-b5ce-bcda06acb99e.PNG" height="10%" width="10%"> </a>
+</div>
