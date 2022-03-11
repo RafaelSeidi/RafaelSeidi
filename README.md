@@ -13,9 +13,9 @@ For now I only know this **programming languages** (at intermediate level):
 ## Goals 🎉
 I'm interested in growing as a programmer and looking for my first experience in the IT area as an intern. I also want to learn how to use git and programming languages like Python and Kotlin.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100170190/157071336-9ee0dd8f-3bfd-4107-ad14-17503fc08c34.png" height="10%" width="10%">
-  <img src="https://user-images.githubusercontent.com/100170190/157071314-0850a6dd-4aea-47b8-a881-257ceeb50e74.PNG" height="10%" width="10%">
-  <img src="https://user-images.githubusercontent.com/100170190/157071324-38d6e201-7912-4797-81fd-6d39a7e38468.jpg" height="10%" width="10%">
+  <img src="https://user-images.githubusercontent.com/100170190/157931676-ae53ceea-dd53-4481-b427-cfcbf98e2406.png" height="10%" width="10%">
+  <img src="https://user-images.githubusercontent.com/100170190/157931680-f9544a05-186e-4424-ad1d-43a79580c9f4.png" height="10%" width="10%">
+  <img src="https://user-images.githubusercontent.com/100170190/157931669-6df960fa-d194-4e42-9db1-366b38bc49c3.png" height="10%" width="10%">
 </p>
   
 ## If you are interested 📧
