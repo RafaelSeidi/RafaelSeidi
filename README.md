@@ -2,7 +2,7 @@
 Hi! I’m **@RafaelSeidi**, a brazilian programming student! 
 In this profile you will see some works that I made to study/test my abilities as a programmer 👨‍💼. 
 
-For now I only know this **programming languages** (at intermediate level):
+For now I only know this **languages** (at intermediate level):
 - C Sharp (C#);
 - HTML;
 - CSS;
