@@ -12,6 +12,7 @@ For now I only know this **languages** (at intermediate level):
 
 ## Goals 🎉
 I'm interested in growing as a programmer and looking for my first experience in the IT area as an intern. I also want to learn how to use git and programming languages like Python and Kotlin.
+> An extra, I **REALLY** want to do the pokedex website with the PokéAPI!! I just need some time to do this.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100170190/157931676-ae53ceea-dd53-4481-b427-cfcbf98e2406.png" height="10%" width="10%">
   <img src="https://user-images.githubusercontent.com/100170190/157931680-f9544a05-186e-4424-ad1d-43a79580c9f4.png" height="10%" width="10%">
