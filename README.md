@@ -4,6 +4,9 @@ In this profile you will see some works that I made to study/test my abilities a
 
 For now I only know this **languages** (at intermediate level):
 - C Sharp (C#);
+- Java;
+- Javascript;
+- Kotlin;
 - HTML;
 - CSS;
 - PHP;
